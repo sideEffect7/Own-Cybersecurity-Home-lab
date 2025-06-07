@@ -65,7 +65,15 @@ Access at: http://localhost:3000
 
 ---
 
-## 📂Resources
+### 📂Resources
 * DVWA GitHub - https://github.com/digininja/DVWA
 * Juice Shop GitHub - https://github.com/juice-shop/juice-shop
 * Metasploitable2 VM - https://sourceforge.net/projects/metasploitable/
+
+---
+
+### Images
+#### VMs
+![VMs](VMs.png)
+
+#### kali & Metasploitable2
